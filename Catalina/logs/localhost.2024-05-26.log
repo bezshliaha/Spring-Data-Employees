@@ -1,0 +1,5 @@
+26-May-2024 15:23:52.745 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+26-May-2024 15:23:52.768 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+26-May-2024 15:23:54.768 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcher'
+26-May-2024 15:23:55.009 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcher'
+26-May-2024 15:23:55.010 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
